@@ -1,0 +1,44 @@
+1. RestSharp: Working with RESTful API is one of the common tasks of developers. This library will help you with this task. One of the key features of this library is its support for a wide range of HTTP verbs, including GET, POST, PUT, DELETE, and more. It includes methods for adding headers, cookies, and parameters to requests, as well as support for authentication and handling errors. It also provides a number of powerful features for working with data, such as automatic serialization and deserialization of JSON and XML data. This library has more than 9k stars on GitHub.
+https://github.com/restsharp/RestSharp
+
+2. Bogus: As a developer, we use fake data to generate test data for applications or to create sample data for demos and prototypes. This library will help you with this task. It includes support for generating fake data in various formats, including names, addresses, phone numbers, and more. It also makes it easy to generate large amounts of fake data quickly and easily. This library has more than 7.5k stars on GitHub.
+https://github.com/bchavez/Bogus
+
+3. Metro:If you want to create WPF applications then this is a good resource for you. It allows developers to cobble together a better UI for their own WPF applications with minimal effort. It will override the default style of all common WPF controls and give them a modern look. It also includes some custom controls based on concepts from Windows Phone, Windows 8, and Windows 10 (UWP) Apps. This library has more than 8.5k stars on GitHub.
+https://github.com/MahApps/MahApps.Metro
+
+4. Humanizer :This library will make your life easier. It meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers, and quantities. This library has more than 7.5k stars on GitHub.
+https://github.com/Humanizr/Humanizer
+
+5. MonoGame :This is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others. It has more than 9.5k stars on GitHub.
+https://github.com/MonoGame/MonoGame
+
+6. CsvHelper : As you have guessed by the name this is a great resource for you if you have to work with CSV. It will help you to read and write CSV files using a flexible and fast API, allowing you to manipulate and transform tabular data. This library has more than 4k stars on GitHub.
+https://github.com/JoshClose/CsvHelper
+
+7. WebSocket
+If you have to work with WebSocket protocol then this is a good resource for you. It provides a simple and easy-to-use API for sending and receiving WebSocket messages. It supports both client and server WebSocket connections, and it can be used to build a wide range of WebSocket-based applications, such as real-time chat systems, online games, and IoT applications. It also supports WebSocket over TLS/SSL, and it has a built-in WebSocket server that can handle multiple connections. It has more than 5k stars on GitHub.
+https://github.com/sta/websocket-sharp
+
+1. Bogus
+As a developer, we use fake data to generate test data for applications or to create sample data for demos and prototypes. This library will help you with this task. It includes support for generating fake data in various formats, including names, addresses, phone numbers, and more. It also makes it easy to generate large amounts of fake data quickly and easily. This library has more than 7.5k stars on GitHub.
+
+2. DbUp
+This library will help you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date. It has more than 2k stars on GitHub.
+
+3. NSubstitute
+This library is designed as a friendly substitute for .NET mocking libraries. It is an attempt to satisfy your craving for a mocking library with a succinct syntax that helps us keep the focus on the intention of our tests, rather than on the configuration of our test doubles. It is perfect for those new to testing, and for others who would just like to get their tests written with less noise and fewer lambdas. This library has more than 2k stars on GitHub.
+
+4. Opentk
+This library is a fast, low-level C# binding for OpenGL, OpenGL ES, OpenAL, and OpenCL. It runs on all major platforms and powers hundreds of apps, games and scientific research. Use this library to add cross-platform 3d graphics, audio, computing, and haptics to your C# application. It has more than 2.5k stars on GitHub.
+
+5. NAudio
+If you want to create an audio application then this is a good resource for you. This library is intended to provide a comprehensive set of useful utility classes from which you can construct your own audio application. It includes lots of features like converting between various forms of uncompressed audio, reading audio from many standard file formats, encoding audio using any ACM or Media Foundation codec installed on your computer, and many more. It has more than 4k stars on GitHub.
+
+6. Autofac
+This library provides an IoC container for .NET. It manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity. This is achieved by treating regular .NET classes as components. It has more than 4k stars on GitHub.
+
+
+
+7. UnitsNet
+This library will help you to work with physical units of measure in a type-safe way. It provides a comprehensive set of classes and methods for working with units such as length, mass, temperature, and more. It supports over 400 units and allows you to easily convert between them. The library also includes support for formatting and parsing string representations of units, as well as support for arithmetic operations. It has more than 2k stars on GitHub.
