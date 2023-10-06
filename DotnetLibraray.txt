@@ -1,0 +1,110 @@
+https://themeselection.com/dotnet-libraries/
+https://www.bacancytechnology.com/blog/top-dot-net-core-libraries-listhttps://codewithmukesh.com/blog/best-libraries-for-aspnet-core/
+
+AutoMapper
+AutoMapper is a convention-based object-object mapper in .NET. It is a simple little library built to solve a deceptively complex problem — getting rid of code that mapped one object to another. This type of code is rather dreary and boring to write.
+
+GitHub ⟷ NuGet ⟷ Website
+
+FluentValidation
+FluentValidation is a popular .NET validation library for building strongly-typed validation rules. It is a small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+
+GitHub ⟷ NuGet ⟷ Website
+
+MediatR
+Simple, unambitious mediator implementation in .NET. In-process messaging with no dependencies. Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
+
+GitHub ⟷ NuGet ⟷ Website
+
+Autofac
+Autofac is an IoC container for Microsoft .NET. It manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity. This is achieved by treating regular .NET classes as components.
+
+GitHub ⟷ NuGet ⟷ Website
+
+Hangfire
+An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required. Incredibly easy way to perform fire-and-forget, delayed and recurring jobs inside ASP.NET applications. CPU and I/O intensive, long-running and short-running jobs are supported. No Windows Service / Task Scheduler required. Backed by Redis, SQL Server, SQL Azure and MSMQ.
+
+GitHub ⟷ NuGet ⟷ Website
+
+Swashbuckle (Swagger — OpenAPI)
+Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset. Swagger tooling for API’s built with ASP.NET Core. Generate beautiful API documentation, including a UI to explore and test operations, directly from your routes, controllers and models. In addition to its Swagger 2.0 and OpenAPI 3.0 generator, Swashbuckle also provides an embedded version of the awesome swagger-ui that’s powered by the generated Swagger JSON. This means you can complement your API with living documentation that’s always in sync with the latest code. Best of all, it requires minimal coding and maintenance, allowing you to focus on building an awesome API.
+
+GitHub ⟷ NuGet ⟷ Website
+
+Serilog
+Simple .NET logging with fully-structured events. Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms. While it’s useful even in the simplest applications, Serilog’s support for structured logging shines when instrumenting complex, distributed, and asynchronous applications and systems.
+
+GitHub ⟷ NuGet ⟷ Website
+
+xUnit
+xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin.GitHub ⟷ NuGet ⟷ Website
+
+Moq
+The most popular and friendly mocking library for .NET. Moq (pronounced “Mock-you” or just “Mock”) is the only mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions, which makes it the most productive, type-safe and refactoring-friendly mocking library available. And it supports mocking interfaces as well as classes. Its API is extremely simple and straightforward, and doesn’t require any prior knowledge or experience with mocking concepts.
+
+GitHub ⟷ NuGet ⟷ Website
+
+FluentAssertions
+Fluent Assertions is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit test. Write assertions that keep you and your fellow developers out of the debugger hell and clearly communicate what they are trying to accomplish.
+
+GitHub ⟷ NuGet ⟷ Website
+
+AutoFixture
+AutoFixture is an open source library for .NET designed to minimize the ‘Arrange’ phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data. Write maintainable unit tests, faster. AutoFixture makes it easier for developers to do Test-Driven Development by automating non-relevant Test Fixture Setup, allowing the Test Developer to focus on the essentials of each test case.
+
+GitHub ⟷ NuGet ⟷ Website
+
+Bogus
+A simple fake data generator for C#, F#, and VB.NET. Bogus is fundamentally a C# port of faker.js and inspired by FluentValidation's syntax sugar. Bogus will help you load databases, UI and apps with fake data for your testing needs.
+
+GitHub ⟷ NuGet ⟷ Website
+
+Polly
+Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+
+GitHub ⟷ NuGet ⟷ Website
+
+RestSharp
+Simple REST and HTTP API Client for .NET. RestSharp is probably the most popular HTTP client library for .NET. Featuring automatic serialization and deserialization, request and response type detection, variety of authentications and other useful features, it is being used by hundreds of thousands of projects.
+
+GitHub ⟷ NuGet ⟷ Website
+
+Refit
+The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square’s Retrofit library, Refit turns your REST API into a live interface.
+
+GitHub ⟷ NuGet ⟷ Website
+
+Humanizer
+Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities. It is part of the .NET Foundation.
+
+GitHub ⟷ NuGet ⟷ Website
+
+NodaTime
+Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely.
+
+GitHub ⟷ NuGet ⟷ Website
+
+BenchmarkDotNet
+BenchmarkDotNet helps you to transform methods into benchmarks, track their performance, and share reproducible measurement experiments. It’s no harder than writing unit tests! Under the hood, it performs a lot of magic that guarantees reliable and precise results thanks to the perfolizer statistical engine. BenchmarkDotNet protects you from popular benchmarking mistakes and warns you if something is wrong with your benchmark design or obtained measurements. The results are presented in a user-friendly form that highlights all the important facts about your experiment. The library is adopted by 6800+ projects including .NET Runtime and supported by the .NET Foundation.
+
+GitHub ⟷ NuGet ⟷ Website
+
+GenFu
+GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give GenFu hints on how to fill them. GenFu is all about smartly building up objects to use for test and prototype data. It will walk your object graph and fill in the properties on your type with realistic looking data.
+
+Use GenFu’s static methods to new up new objects for testing, design-time data or seeding a database.
+
+GitHub ⟷ NuGet ⟷ Website
+
+MiniProfiler
+MiniProfiler is a library and UI for profiling your application. By letting you see where your time is spent, which queries are run, and any other custom timings you want to add, MiniProfiler helps you debug issues and optimize performance. A simple but effective mini-profiler for ASP.NET (and Core) websites.
+
+GitHub ⟷ NuGet ⟷ Website
+
+EPPlus
+Create advanced Excel spreadsheets using .NET, without the need of interop. It had the basic functionality needed to read and write a spreadsheet. EPPlus is a .NET library that reads and writes Excel files using the Office Open XML format (xlsx). EPPlus has no dependencies other than .NET.
+
+GitHub ⟷ NuGet ⟷ Website
+
+iText
+iText 7 for .NET is the .NET version of the iText 7 library, formerly known as iTextSharp, which it replaces. iText 7 represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit, etc.
